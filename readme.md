@@ -2,7 +2,7 @@
 
 Prometheus MolGen is a powerful Python tool for generating SVG representations of organic chemistry molecules. Designed specifically for educational applications, it creates high-quality, customizable molecular visualizations that adhere to specific style guidelines.
 
-This tool was created to support the [Organic Chemistry Quiz Game](https://github.com/your-username/Organic-Chemistry-Quiz-JS) by automatically generating consistently styled molecular SVGs.
+This tool was created to support the [Organic Chemistry Quiz Game](https://github.com/MuzaPro/Organic-Chemistry-Quiz-JS) by automatically generating consistently styled molecular SVGs.
 
 ![Prometheus MolGen Logo](assets/logo.png)
 
